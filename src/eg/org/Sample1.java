@@ -7,7 +7,7 @@ public class Sample1 {
 		System.out.println("Method 1");
 		System.out.println("method 1 updated");
 System.out.println("update 1");
-System.out.println("update 2");
+
 	}
 
 }
